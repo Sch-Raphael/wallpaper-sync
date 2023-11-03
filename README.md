@@ -21,6 +21,6 @@ and tick ```Override wallpaper image```
 **Sync Setup**   
 (Python and pip must be installed!)   
 Install every requirement from ```requirements.txt```   
-Download ```colorSync.pyw```   
+Download ```colorSync.exe``` from the releases tab   
 Place the file in ```´C:\Use s\<your-user>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup´```   
 Restart your Computer.   
