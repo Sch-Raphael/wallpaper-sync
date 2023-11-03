@@ -6,8 +6,7 @@ sync wallpaper Engine and OpenRGB
 ## Getting Started
 **Setup Wallpaper Engine**   
 Go to ```Wallpaper Engine Settings > General > Windows```   
-and tick ```Override wallpaper image```   
-click ```ok```   
+and tick ```Override wallpaper image```    
    
 **Setup OpenRGB**   
 Go to ```SDK Server```   
