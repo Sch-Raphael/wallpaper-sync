@@ -18,6 +18,7 @@ then go to ```Setting > General Settings > Start At Login Settings```
 and tick ```Start At Login, Start Minimized and Start Sever```
 
 **Sync Setup**   
+Install every requirement from ```requirements.txt```   
 Download ```colorSync.pyw``` (Python must be installed!)   
 Place the file in ```´C:\Use s\<your-user>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup´```   
 Restart your Computer.   
