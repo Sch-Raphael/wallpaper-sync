@@ -1,7 +1,8 @@
 # wallpaper-sync
 
-sync wallpaper Engine and OpenRGB
-**Windows Only!**
+sync wallpaper Engine and OpenRGB **Windows Only!**   
+
+based on [RGBMatcher from ransaked1](https://github.com/ransaked1/RGBMatcher)
 
 ## Getting Started
 **Setup Wallpaper Engine**   
