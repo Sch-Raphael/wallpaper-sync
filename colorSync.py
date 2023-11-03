@@ -58,7 +58,10 @@ def get_color():
     return (final)
 
 
-def change(client):    
+def change():    
+    # connect to openRGB SDK
+    client = OpenRGBClient("127.0.0.1", 8000, 'Wallpaper Sync')    
+    
     # get wallpaper color
     colorRGB = get_color()
     print(colorRGB)
@@ -81,12 +84,9 @@ class ImageChangeHandler(FileSystemEventHandler):
                 change()
     
     
-def start():
-    # connect to openRGB SDK
-    client = OpenRGBClient("127.0.0.1", 8000, 'Wallpaper Sync')    
-    
+def start():    
     # run on start
-    change(client)
+    change()
     
     # observer on image change
     event_handler = ImageChangeHandler()
