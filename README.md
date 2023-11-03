@@ -2,8 +2,12 @@
 
 sync wallpaper Engine and OpenRGB **Windows Only!**   
 
-based on [RGBMatcher from ransaked1](https://github.com/ransaked1/RGBMatcher)
+based on [RGBMatcher from ransaked1](https://github.com/ransaked1/RGBMatcher)   
 
+![](https://github.com/ransaked1/RGBMatcher/blob/master/RGBMaker.gif)
+(gif from ransaked1)   
+
+   
 ## Getting Started
 **Setup Wallpaper Engine**   
 Go to ```Wallpaper Engine Settings > General > Windows```   
