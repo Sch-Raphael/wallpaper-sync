@@ -1,0 +1,4 @@
+watchdog==2.1.2
+openrgb==0.6.1
+colorthief==0.3.0
+Pillow==8.2.0
