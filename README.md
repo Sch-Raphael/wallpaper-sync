@@ -19,7 +19,7 @@ and tick ```Start At Login, Start Minimized and Start Sever```
 
 **Sync Setup**   
 (Python and pip must be installed!)   
-Install every requirement from ```requirements.txt```
-Download ```colorSync.pyw```
+Install every requirement from ```requirements.txt```   
+Download ```colorSync.pyw```   
 Place the file in ```´C:\Use s\<your-user>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup´```   
 Restart your Computer.   
