@@ -14,12 +14,9 @@ Go to ```Wallpaper Engine Settings > General > Windows```
 and tick ```Override wallpaper image```    
    
 **Setup OpenRGB**   
-Go to ```SDK Server```   
-Change Host to ```localhost```   
-and Server Port to ```8000```   
-and click ```start```   
-then go to ```Setting > General Settings > Start At Login Settings```
-and tick ```Start At Login, Start Minimized and Start Sever```
+![image](https://github.com/Sch-Raphael/wallpaper-sync/assets/81589649/c7e5f5af-8c06-4a08-bb9b-08a164c96adb)
+![image](https://github.com/Sch-Raphael/wallpaper-sync/assets/81589649/1ef387c6-aa3f-4089-a2f6-816946cdf69d)
+
 
 **Sync Setup**   
 (Python and pip must be installed!)   
